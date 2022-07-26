@@ -131,3 +131,6 @@ dmypy.json
 
 # Data folders
 /AI4Code
+
+# Reference notebooks
+codebert-pairwise.ipynb
